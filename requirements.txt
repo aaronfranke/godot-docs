@@ -10,4 +10,4 @@ sphinx_rtd_theme==0.4.3
 sphinx-tabs==1.1.13
 
 # Full-page search UI for RTD: https://readthedocs-sphinx-search.readthedocs.io
-readthedocs-sphinx-search==0.1.0rc3
+readthedocs-sphinx-search==0.1.0
